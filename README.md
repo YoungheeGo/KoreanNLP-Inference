@@ -20,3 +20,4 @@
 - transfer learning based on BERT model -> koBERT,alBERT, roBERT,xlmBERT ...등등
 - 기계탓을 하고 싶진 않지만, 어쩔 수 없이 GPU탓이다. 코드 자체가 돌아가지 않아 결과 제출도 5번밖에 하지 못했다. 
 
+끝.
